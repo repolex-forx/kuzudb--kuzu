@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/kuzudb/kuzu/commit/89f0263cc7a1fd9c396d2c4953747a013556a7f9",
       "git:hexsha": "89f0263cc7a1fd9c396d2c4953747a013556a7f9",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T22:05:28.291684+00:00"
     },
     {
       "@id": "https://repolex.ai/r/kuzudb/kuzu/commit/a6b300984beb5a4ca96434ddf256fc403b52ec36",
