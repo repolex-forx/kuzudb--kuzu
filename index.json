@@ -1,0 +1,11 @@
+{
+  "org": "kuzudb",
+  "repo": "kuzu",
+  "versions": [
+    {
+      "commit": "89f0263cc7a1fd9c396d2c4953747a013556a7f9",
+      "tag": "",
+      "parsed_at": "2026-10-17T22:05:28.292338+00:00"
+    }
+  ]
+}
